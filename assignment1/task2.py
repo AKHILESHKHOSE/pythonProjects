@@ -7,4 +7,4 @@ last_name = input("Enter your last name: ")
 
 # creating personalized greeting message
 
-print("Hello", first_name, last_name+"! Welcome to the Python programming world.")
+print("Hello", first_name, last_name+"! Welcome to the Python program")
